@@ -1,7 +1,7 @@
 # Default ignored files
 .idea/
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 # Datasource local storage ignored files
 /../../../../../../:\Users\avmma\Documents\JsonTest\.idea/dataSources/
 /dataSources.local.xml
